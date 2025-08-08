@@ -1,4 +1,4 @@
-feat: Complete QuizMonoRepo application with Swagger, Pagination, AOP, DTO pattern, validations & custom exceptions
+Completed QuizMonoRepo application with Swagger, Pagination, AOP, DTO pattern, validations & custom exceptions
 
 - Implemented Question & Quiz modules with CRUD, filtering, and quiz submission logic
 - Added Swagger API documentation for easy endpoint exploration
